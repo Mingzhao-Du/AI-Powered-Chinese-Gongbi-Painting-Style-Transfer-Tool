@@ -1,4 +1,4 @@
-# VoidScape - AI-Powered Chinese Gongbi Painting Style Transfer Tool
+# VoidScape: AI-Powered Chinese Gongbi Painting Style Transfer Tool
 
 VoidScape is an AI-driven style transfer tool that transforms images into the traditional Chinese Gongbi painting style. Built with PyTorch and Streamlit, the system uses a pre-trained VGG19 model to preserve fine content structures while applying delicate brushwork and harmonious color palettes. Users can upload images, select from curated Gongbi styles, and adjust brightness/saturation for personalized output. This project promotes Chinese artistic aesthetics through accessible digital interaction.
 
