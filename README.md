@@ -22,7 +22,7 @@ This document provides step-by-step instructions on how to set up the Conda envi
 ### 1. Clone the Repository
 Clone the project repository to your computer.
 ```
-git clone https://git.arts.ac.uk/24004238/AI-4-Media-Project-Mingzhao-Du
+git clone https://github.com/Mingzhao-Du/VoidScape-AI-Powered-Chinese-Gongbi-Painting-Style-Transfer-Tool
 ```
 ### 2. Activate the existing environment
 ```
