@@ -48,14 +48,14 @@ Local URL: http://localhost:8501
 ### 5. Upload image and adjust parameters
 You can upload image by dragging them directly or by previewing the folder. You can choose to adjust the brightness and saturation of the image.
 
-![156e0b8e52528aae09abb41421142e3](https://git.arts.ac.uk/24004238/AI-4-Media-Project-Mingzhao-Du/assets/1145/235028cc-20c4-41c6-b52e-60fddb0dfc47)
+<img width="1402" height="1196" alt="f7a6a52239e3084c02e4ab0011d08f3a" src="https://github.com/user-attachments/assets/68304a86-3df6-4456-92ef-d5b26271a6fe" />
 
 ### 6. Select style image
 You can preview each style image and select one.
 
-![58a841ae1dd4783e434ceadb3117540](https://git.arts.ac.uk/24004238/AI-4-Media-Project-Mingzhao-Du/assets/1145/578c6f57-181f-40d2-890d-5ce370c89366)
+<img width="1658" height="1095" alt="44f4a6755258c0f2d6dda6055acdd03e" src="https://github.com/user-attachments/assets/c0a1752d-3ad5-407b-b91b-558c39db5bc7" />
 
 ### 7. Wait for it to be generated and downloaded
 When you click "Start conversion", the process starts. Wait a few minutes for the conversion to complete and allow the user to download.
 
-![ccbe90930503d12b6abcfedaa836ea6](https://git.arts.ac.uk/24004238/AI-4-Media-Project-Mingzhao-Du/assets/1145/270eaad4-7375-49a9-98c3-2d3ab1cb694e)
+<img width="1267" height="1156" alt="36d3ea8df5ed8c7da12c6fa9f5d856a9" src="https://github.com/user-attachments/assets/476f4981-d815-4995-82ed-a1e9fe5b70c7" />
