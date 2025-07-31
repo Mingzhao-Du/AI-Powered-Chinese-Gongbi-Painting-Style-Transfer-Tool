@@ -4,7 +4,7 @@ VoidScape is an AI-driven style transfer tool that transforms images into the tr
 
 ## Link to project video recording: https://mega.nz/file/2nICUSgK#KrqUBZBay9V4FryA5qIafYGrFNMqjTcfDa0fplz08Eg
 
-# Documentation:
+## Documentation:
 [content_images_example](content_images_example): Inside the folder is a collection of sample original images used to test the effects of image generation for my AI applications.
 
 [demo_media](demo_media)：The purpose of this folder is to show the AI-generated effects of my project, which contains six original input images (stored in the [input](demo_media/input) folder) and their corresponding AI-generated effect images (stored in the [output](demo_media/output) folder). Each of the six effect images uses six different artisanal-style drawings as reference images.
@@ -15,7 +15,7 @@ VoidScape is an AI-driven style transfer tool that transforms images into the tr
 
 [style_transfer_model.py](style_transfer_model.py): The core function of this file is to load the pre-trained VGG19 model, transform the input content image into a predefined Gongbi painting style, and incorporate a visual optimization process, ultimately achieving VGG19-based image style transfer.
 
-# Setup instructions:
+## Setup instructions:
 
 This document provides step-by-step instructions on how to set up the Conda environment, download necessary files, and run the project.
 
@@ -59,3 +59,9 @@ You can preview each style image and select one.
 When you click "Start conversion", the process starts. Wait a few minutes for the conversion to complete and allow the user to download.
 
 <img width="1267" height="1156" alt="36d3ea8df5ed8c7da12c6fa9f5d856a9" src="https://github.com/user-attachments/assets/476f4981-d815-4995-82ed-a1e9fe5b70c7" />
+
+## License
+
+This project is for **educational and non-commercial use only**.  
+© 2025 Mingzhao Du. All rights reserved.  
+Please contact the author for permission before redistribution or reuse.
