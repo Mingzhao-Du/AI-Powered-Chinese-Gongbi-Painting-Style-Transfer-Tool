@@ -1,10 +1,8 @@
-# AI-4-Media-Project-Template (24/25)
+# VoidScape - AI-Powered Chinese Gongbi Painting Style Transfer Tool
 
-## Student name: MINGZHAO DU
-## Student number: 24004238
-## Project title: VoidScape: AI-Powered Chinese Gongbi Painting Style Transfer Tool
-## Link to git project repo: https://git.arts.ac.uk/24004238/AI-4-Media-Project-Mingzhao-Du
-## Link to project video recording: https://artslondon-my.sharepoint.com/:v:/r/personal/m_du0120241_arts_ac_uk/Documents/Project%20video%20recording%20-%20AI%20for%20Media%2024_25.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WPwgoP
+VoidScape is an AI-driven style transfer tool that transforms images into the traditional Chinese Gongbi painting style. Built with PyTorch and Streamlit, the system uses a pre-trained VGG19 model to preserve fine content structures while applying delicate brushwork and harmonious color palettes. Users can upload images, select from curated Gongbi styles, and adjust brightness/saturation for personalized output. This project promotes Chinese artistic aesthetics through accessible digital interaction.
+
+## Link to project video recording: https://mega.nz/file/2nICUSgK#KrqUBZBay9V4FryA5qIafYGrFNMqjTcfDa0fplz08Eg
 
 # Documentation:
 [content_images_example](content_images_example): Inside the folder is a collection of sample original images used to test the effects of image generation for my AI applications.
